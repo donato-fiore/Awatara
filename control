@@ -1,0 +1,9 @@
+Package: com.fiore.awatara
+Name: awatara
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change all images in the Discord app to be a specified image!
+Maintainer: Donato Fiore
+Author: Donato Fiore
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
